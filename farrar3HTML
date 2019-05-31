@@ -1,1 +1,19 @@
-<---!html--->
+<html>
+  <body style="background-color:black;">
+  <head>
+    <h1>
+     <center> 
+       <font color="white" size= +10>Arcade </font>
+    </h1>
+    <body>
+      <center>
+                <ul>
+  <li><a href="default.asp"><font color="white">Home</a></li>
+  <li><a href="news.asp"><font color="white">About</a></li>
+  <li><a href="contact.asp"><font color="white">Announcements</a></li>
+<li><a href="contact.asp"><font color="white">Menu</a></li>
+  <li><a href="contact.asp"><font color="white">Location</a></li>
+    <li><a href="contact.asp"><font color="white">Photos</a></li>
+      <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80">
+
+    
